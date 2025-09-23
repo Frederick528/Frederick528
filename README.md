@@ -1,16 +1,20 @@
-<!-- 상단 헤더 이미지 -->
-
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwave%26color%3Dauto%26height%3D280%26section%3Dheader%26text%3DWelcome%2520to%2520My%2520Code%2520Factory!%26fontSize%3D70" />
-
 <div align="center">
 
-안녕하세요! 게임 개발자를 꿈꾸는 OOO입니다.
+
+<!-- 상단 헤더 이미지 -->
+![Header](https://capsule-render.vercel.app/api?type=Slice&reversal=false&color=timeGradient)
+
+
+
+![Header](https://capsule-render.vercel.app/api?type=rect&height=100&text=게임%20개발자&fontAlign=25&fontSize=35&desc=한%20걸음씩,%20꾸준하게%20성장하는%20개발자&descAlign=68&descAlignY=50&theme=radical)
+
+안녕하세요! 게임 개발자를 꿈꾸는 김정우입니다.
 상상하는 모든 것을 게임으로 만드는 것을 목표로 공부하고 있습니다. 
 
 
 
 
-저의 프로젝트와 학습 과정을 구경하고 가세요!
+다양한 게임을 제작 중입니다. 감사합니다!
 
 <!-- 개발 엔진 -->
 
@@ -44,13 +48,11 @@
 
 <br>
 <br>
-
 <!-- GitHub Stats -->
 
 <!-- ?username= 뒤에 본인의 GitHub 아이디를 입력하세요 -->
 
-</div>
-
+![footer](https://capsule-render.vercel.app/api?type=Slice&reversal=true&color=timeGradient&section=footer)
 <!-- 하단 푸터 이미지 -->
 
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwave%26color%3Dauto%26height%3D200%26section%3Dfooter"/>
+</div>
