@@ -21,7 +21,7 @@
 <div style="width: 500px; background-color: #f0f0f0; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
 <h2 style="color: #333; border-bottom: 2px solid #ccc; padding-bottom: 10px;">🛠️ 개발 엔진</h2>
 <div style="margin-top: 15px;">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Unity-100000%3Fstyle%3Dfor-the-badge%26logo%3Dunity%26logoColor%3Dwhite" alt="Unity"/>
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/5b8d29c5-c101-4591-8633-73d62b540558"/>
 </div>
 </div>
 
@@ -30,8 +30,8 @@
 <div style="width: 500px; background-color: #f0f0f0; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
 <h2 style="color: #333; border-bottom: 2px solid #ccc; padding-bottom: 10px;">💻 사용 언어</h2>
 <div style="margin-top: 15px;">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2523-239120%3Fstyle%3Dfor-the-badge%26logo%3Dc-sharp%26logoColor%3Dwhite" alt="C#"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/f685ce4f-ebcf-443d-ab99-a7da8e1ab58b" />
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/c6725ee0-b87d-40ca-b80e-c86430e958ea" />
 </div>
 </div>
 
@@ -40,9 +40,9 @@
 <div style="width: 500px; background-color: #f0f0f0; border-radius: 10px; padding: 20px;">
 <h2 style="color: #333; border-bottom: 2px solid #ccc; padding-bottom: 10px;">🔧 사용 가능 툴</h2>
 <div style="margin-top: 15px;">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Orange3-F47920%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite" alt="Orange3"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub%2520Desktop-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub Desktop"/>
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/f235e951-c60b-4522-9a6f-58004484e4e6" />
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/12643013-9dc4-45fb-8ad7-3e9a6c8406b7" />
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/c791e12f-f174-41a2-bb97-d5accb0e6a21" />
 </div>
 </div>
 
